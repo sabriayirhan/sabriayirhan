@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sabriayirhan&rank_icon=github&show_icons=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=sabriayirhan&rank_icon=github&show_icons=true&theme=github_dark)
 <!--
 **sabriayirhan/sabriayirhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
